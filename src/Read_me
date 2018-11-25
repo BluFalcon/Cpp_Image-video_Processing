@@ -1,0 +1,7 @@
+This code is uploaded to create a portfolio though it is actually working if you have the proper libraries and  hardware.
+For any problems or help contact me :)
+
+It is firstly created to run with Flycapture camera or just stock cameras if you choose the correct option
+capture = cvCaptureFromCAM( 0 ); //0=default, -1=any camera, 1..99=your camera
+
+if you do not have 2 cameras you can just edit the code to see how it works with 2 video or images.
